@@ -1,4 +1,4 @@
-#Prefix-preserving encryption
+##Prefix-preserving encryption
 
 This implementation presents a prefix-preserving algorithm designed using the Feistel Cipher.
 
